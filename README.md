@@ -1,2 +1,2 @@
-# voice-detector
-Module that recognizes speakers based on the learned voice
+# Voice Detector
+> Module that recognizes speakers based on the learned voice
