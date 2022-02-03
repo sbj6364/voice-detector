@@ -1,5 +1,5 @@
 # Voice Detector
-> Module that recognizes speakers based on the learned voice
+> Module that recognizes speakers based on the learned voice  
 > [한국어/Korean](./README_KR.md)
 
 *The contents below will be added.*
